@@ -1,5 +1,5 @@
 Project Title:
-Speech Command Recognition using Convolutional Neural Networks (CNN)
+Voice Command Recognition using Convolutional Neural Networks (CNN)
 
 Project Description:
 This project focuses on training a CNN model for recognizing speech commands. It utilizes the Google Speech Commands dataset, preprocesses the audio data, and trains a CNN model for classification.
