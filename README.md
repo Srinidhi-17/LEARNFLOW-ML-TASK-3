@@ -5,7 +5,8 @@ Project Description:
 This project focuses on training a CNN model for recognizing speech commands. It utilizes the Google Speech Commands dataset, preprocesses the audio data, and trains a CNN model for classification.
 
 Dataset Information:
-The dataset used for this project is the Google Speech Commands dataset, which contains a collection of short audio commands spoken by different users.
+The dataset used for this project is the Google Speech Commands dataset, which contains a collection of short audio commands spoken by different users.https://kaggle.com/neehakurelli/google-speech-commands
+
 
 Requirements:
 Python 3.x
